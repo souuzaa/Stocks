@@ -24,7 +24,7 @@ Each `StockGrain` is identified by its stock ticker symbol, for example, the str
 
 For the sample to display all of the stocks listed: "MSFT", "GOOG", "AAPL", "GME", "AMZN".
 
-User k6sample.js script to run API tests.
+Use k6sample.js script to run API tests.
 
 ## Sample prerequisites
 
